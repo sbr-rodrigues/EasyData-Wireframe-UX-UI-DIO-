@@ -122,16 +122,19 @@ O wireframe foi desenvolvido utilizando:
 # 📷 Wireframe do Projeto
 
 ## Versão Desktop
-
-
-<img src="wireframe-desktop1.png" width="900">
-<img src="wireframe-desktop2.png" width="900">
+<p align="center">
+<img src="https://github.com/sbr-rodrigues/EasyData-Wireframe-UX-UI-DIO-/blob/main/assests/wireframe-desktop1.png" width="500">
+<img src="https://github.com/sbr-rodrigues/EasyData-Wireframe-UX-UI-DIO-/blob/main/assests/wireframe-desktop2.png" width="400">
+</p>
 
 ## Versão Mobile
 
-<img src="wireframe-mobile1.png" width="300">
-<img src="wireframe-mobile2.png" width="300">
-![Wireframe Mobile](./wireframe-mobile2.png)
+<p align="center">
+<img src="https://github.com/sbr-rodrigues/EasyData-Wireframe-UX-UI-DIO-/blob/main/assests/wireframe-mobile1.png" width="250">
+<img src="https://github.com/sbr-rodrigues/EasyData-Wireframe-UX-UI-DIO-/blob/main/assests/wireframe-mobile2.png" width="200">
+</p>
+
+
 
 ---
 
